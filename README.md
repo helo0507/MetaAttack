@@ -15,3 +15,5 @@ To achieve optimal attack performance, this algorithm should be used in conjunct
 ## Disclaimer
 
 This project is provided for academic research, security education, and defensive research only. Any unauthorized use, including attacks, eavesdropping, interference, or deception, is strictly prohibited. Users are solely responsible for complying with applicable laws and obtaining proper authorization. The authors and their institutions assume no liability for misuse or damages.
+
+This project is based on the paper "<A Portable and Stealthy Inaudible Voice Attack Based on Acoustic Metamaterials>". If you use this code or method, please cite the original paper.  
