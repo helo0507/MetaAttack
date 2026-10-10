@@ -1,4 +1,4 @@
-<--- MetaAttack is a research project focused on inaudible attacks using ultrasonic waves.
+MetaAttack is a research project focused on inaudible attacks using ultrasonic waves.
 
 The code in this project primarily introduces a feedback algorithm for MetaAttack, which helps attackers determine whether the attack was successful.
 
@@ -10,4 +10,8 @@ The 'aplay' command in the feedback code needs to be changed to the port of the 
 
 The path to the audio attack file needs to be changed after the 'aplay' command.
 
-To achieve optimal attack performance, this algorithm should be used in conjunction with the attack device described in the paper. --->
+To achieve optimal attack performance, this algorithm should be used in conjunction with the attack device described in the paper. 
+
+## Disclaimer
+
+This project is provided for academic research, security education, and defensive research only. Any unauthorized use, including attacks, eavesdropping, interference, or deception, is strictly prohibited. Users are solely responsible for complying with applicable laws and obtaining proper authorization. The authors and their institutions assume no liability for misuse or damages.
